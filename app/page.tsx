@@ -28,9 +28,6 @@ export default function Home() {
 </SplitTextSection>
         <CaptionSection />
 
-       <SplitTextSection />
-
-
       </section>
 
     </main>
