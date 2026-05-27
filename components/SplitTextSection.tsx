@@ -6,7 +6,7 @@ export default function SplitTextSection({
   children: React.ReactNode;
 }) {
   return (
-    <section className="md:col-span-6 grid md:grid-cols-6 gap-8">
+    <section className="md:col-span-6 grid md:grid-cols-6 border-t pt-6 gap-8">
       <div className="md:col-span-2">
         <h2 className="text-2xl font-bold sticky top-10">{heading}</h2>
       </div>
