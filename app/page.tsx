@@ -17,8 +17,7 @@ export default function Home() {
 
         <SplitTextSection heading="This is a sub-heading that just hangs around over here">
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.
+            is this working?
           </p>
 
           <p>
