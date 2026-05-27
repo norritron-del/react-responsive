@@ -11,7 +11,7 @@ export default function SplitTextSection({
         <h2 className="text-2xl font-bold sticky top-10">{heading}</h2>
       </div>
 
-      <div className="md:col-span-4 space-y-6 text-lg leading-relaxed prose lg:prose-xl">
+      <div className="md:col-span-4 space-y-6 text-lg leading-relaxed prose max-w-3xl">
         {children}
       </div>
     </section>
